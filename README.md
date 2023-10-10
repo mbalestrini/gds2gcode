@@ -10,7 +10,9 @@ Python libraries requirements:
 
 
 ### Usage:
-`gds_to_gcode.py [-h] -i INPUT_GDS [-o OUTPUT_DIR] [-c CELL] [-pw PLOT_WIDTH] [-ph PLOT_HEIGHT] [-zm Z_MOVEMENTS_HEIGHT] [-zd Z_DRAWING_HEIGHT] [-zs Z_SAFE_HEIGHT] [-sz Z_SPEED] [-sxy XY_DRAWING_SPEED] [-cr CROP_RECT [CROP_RECT ...]]`
+```
+gds_to_gcode.py [-h] -i INPUT_GDS [-o OUTPUT_DIR] [-c CELL] [-pw PLOT_WIDTH] [-ph PLOT_HEIGHT] [-zm Z_MOVEMENTS_HEIGHT] [-zd Z_DRAWING_HEIGHT] [-zs Z_SAFE_HEIGHT] [-sz Z_SPEED] [-sxy XY_DRAWING_SPEED] [-cr CROP_RECT [CROP_RECT ...]]
+```
 
 
 ### Arguments
