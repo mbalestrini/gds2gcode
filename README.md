@@ -48,6 +48,11 @@ gds_to_gcode.py -i design.gds -o somedir -c inverter -pw 260 -ph 215 -zm 2.0 -zd
 
 Tested on python 3.8
 
+### Example plots
+
+![](docs/example_1.jpg)
+![](docs/example_5.jpg)
+![](docs/example_4.jpg)
 
 
 
