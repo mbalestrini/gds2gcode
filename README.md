@@ -54,7 +54,8 @@ Tested on python 3.8
 
 ![](docs/example_1.jpg)
 ![](docs/example_5.jpg)
-![](docs/example_4.jpg)
+![](docs/example_2.jpg)
+![](docs/example_3.jpg)
 
 
 
